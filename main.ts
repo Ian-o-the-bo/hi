@@ -20,7 +20,7 @@ namespace custom {
     //% blockId=my_extension_name_block_argument
     //% block="block argument $blockArg"
     //% blockArg.shadow=minecraftBlock
-    //% blockArg.defl=Block.DiamondBlock
+    //% blockArg.defl=Block.DeepslateDiamondOre
     export function blockArgument(blockArg: number) {
 
     }

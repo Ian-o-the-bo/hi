@@ -1,4 +1,6 @@
 namespace custom {
+    //% blockIdentity="blocks.block" enumIdentity="Block.DiamondOre"
+    const DIAMOND_ORE = Block.DiamondOre;
     //% blockId=my_extension_name_mob_argument
     //% block="mob argument $mob"
     //% mob.shadow=minecraftAnimal
